@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "AMR Structural Epistasis Analysis"
+type: software
+authors:
+  - family-names: Raziq
+    given-names: Talha
+    orcid: "https://orcid.org/0009-0006-2594-5715"
+    affiliation: "Gomal Centre of Biochemistry and Biotechnology, Gomal University, Dera Ismail Khan, Pakistan"
+doi: 10.5281/zenodo.23095915
+license: MIT
+abstract: "Notebook that pairs resistance mutations listed in the CARD database, maps them onto AlphaFold structures, and compares the 3D distance of each pair with a sequence-matched random control."
+keywords:
+  - antimicrobial resistance
+  - AlphaFold
+  - protein structure
+  - CARD

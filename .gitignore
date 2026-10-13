@@ -1,0 +1,22 @@
+# Downloaded data (CARD archive, card.json, AlphaFold files). Re-created by the notebook.
+AMR_Structural_Mutation_Project/raw/
+
+# Large intermediate tables. Keep only the small stats file.
+AMR_Structural_Mutation_Project/processed/*
+!AMR_Structural_Mutation_Project/processed/primary_statistical_results.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

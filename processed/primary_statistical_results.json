@@ -1,0 +1,14 @@
+{
+    "total_pairs": 112882,
+    "observed_3D_mean_A": 20.313,
+    "observed_3D_median_A": 18.455,
+    "control_3D_mean_A": 22.922,
+    "control_3D_median_A": 20.856,
+    "difference_mean_A": -2.609,
+    "difference_median_A": -1.68,
+    "paired_ttest_statistic": -72.4001,
+    "paired_ttest_pvalue": 0.0,
+    "wilcoxon_statistic": 2355510068.5,
+    "wilcoxon_pvalue": 0.0,
+    "cohens_d": -0.2155
+}

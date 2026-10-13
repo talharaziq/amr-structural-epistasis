@@ -1,0 +1,130 @@
+CARD_model,NCBI_Acc,UniProt_Acc,Structure_id,Structure_source,PDB_path,Chain
+basR,AAG08162.1,Q9HV32,AF-Q9HV32,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9HV32.pdb,A
+Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin,AFC91828.1,H8ZYN4,AF-H8ZYN4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-H8ZYN4.pdb,A
+Staphylococcus aureus rpoB mutants conferring resistance to rifampicin,CAG39568.1,Q6GJC6,AF-Q6GJC6,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GJC6.pdb,A
+Staphylococcus aureus parE conferring resistance to fluoroquinolones,CAG40364.1,Q6GH51,AF-Q6GH51,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GH51.pdb,A
+Staphylococcus aureus pgsA mutations conferring resistance to daptomycin,BAB95031.1,P63757,AF-P63757,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P63757.pdb,A
+Mycobacterium tuberculosis gidB mutation conferring resistance to streptomycin,NP_218436.2,P9WGW9,AF-P9WGW9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGW9.pdb,A
+Mycobacterium tuberculosis iniA mutant conferring resistance to ethambutol,NP_214856.1,P9WJ99,AF-P9WJ99,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJ99.pdb,A
+Mycobacterium tuberculosis iniC mutant conferring resistance to ethambutol,NP_214857.1,P9WJ95,AF-P9WJ95,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJ95.pdb,A
+Klebsiella pneumoniae ramR mutants,ABR76005.1,A6T5Y4,AF-A6T5Y4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A6T5Y4.pdb,A
+Escherichia coli rpoB mutants conferring resistance to rifampicin,BAB38333.1,P0A8V4,AF-P0A8V4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0A8V4.pdb,A
+Staphylococcus aureus rpoC conferring resistance to daptomycin,CAG39569.1,Q6GJC5,AF-Q6GJC5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GJC5.pdb,A
+Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide,NP_216559.1,I6XD65,AF-I6XD65,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6XD65.pdb,A
+Bartonella bacilliformis gyrA conferring resistance to fluoroquinolones,AAL82403.1,Q8RT68,AF-Q8RT68,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q8RT68.pdb,A
+Staphylococcus aureus rpoB mutants conferring resistance to daptomycin,CAG39568.1,Q6GJC6,AF-Q6GJC6,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GJC6.pdb,A
+Enterococcus faecium liaS mutant conferring daptomycin resistance,AFK58561.1,Q3XXY5,AF-Q3XXY5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q3XXY5.pdb,A
+Staphylococcus aureus gyrA conferring resistance to fluoroquinolones,WP_000819088.1,Q5HJZ0,AF-Q5HJZ0,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q5HJZ0.pdb,A
+Enterococcus faecium cls conferring resistance to daptomycin,ALL09868.1,,,,,A
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid,NP_216424.1,I6YBX7,AF-I6YBX7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6YBX7.pdb,A
+Staphylococcus aureus cls conferring resistance to daptomycin,ABD31357.1,Q2FWG8,AF-Q2FWG8,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q2FWG8.pdb,A
+Mycobacterium tuberculosis embR mutant conferring resistance to ethambutol,NP_215783.1,P9WGJ9,AF-P9WGJ9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGJ9.pdb,A
+Mycobacterium tuberculosis embA mutant conferring resistance to ethambutol,NP_218311.1,P9WNL9,AF-P9WNL9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNL9.pdb,A
+Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid,NP_216000.1,P9WGR1,AF-P9WGR1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGR1.pdb,A
+Mycobacterium tuberculosis tlyA mutations conferring resistance to aminoglycosides,NP_216210.1,P9WJ63,AF-P9WJ63,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJ63.pdb,A
+Mycobacterium tuberculosis embB with mutation conferring resistance to ethambutol,NP_218312.1,P9WNL7,AF-P9WNL7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNL7.pdb,A
+Mycobacterium tuberculosis rpsL mutations conferring resistance to streptomycin,NP_215196.1,P9WH63,AF-P9WH63,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WH63.pdb,A
+Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones,NP_214520.1,P9WG47,AF-P9WG47,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WG47.pdb,A
+Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid,NP_216761.1,P9WQD9,AF-P9WQD9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WQD9.pdb,A
+Escherichia coli EF-Tu mutants conferring resistance to kirromycin,AAA50993.1,P0CE47,AF-P0CE47,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0CE47.pdb,A
+Escherichia coli gyrA conferring resistance to fluoroquinolones,AAC75291.1,P0AES4,AF-P0AES4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AES4.pdb,A
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance,ABR75897.1,A6T5M6,AF-A6T5M6,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A6T5M6.pdb,A
+Mycobacterium leprae folP with mutation conferring resistance to dapsone,CAC29732.1,P0C0X1,AF-P0C0X1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0C0X1.pdb,A
+Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide,NP_218371.1,P9WNF9,AF-P9WNF9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNF9.pdb,A
+Staphylococcus aureus parE conferring resistance to aminocoumarin,BAA11086.1,Q2FYS5,AF-Q2FYS5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q2FYS5.pdb,A
+Mycobacterium tuberculosis embB with mutation conferring resistance to rifampicin,NP_218312.1,P9WNL7,AF-P9WNL7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNL7.pdb,A
+Staphylococcus aureus mprF with mutation conferring resistance to daptomycin,ADJ67256.1,D9IFN8,AF-D9IFN8,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-D9IFN8.pdb,A
+Mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid,NP_216370.1,P95160,AF-P95160,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P95160.pdb,A
+Neisseria gonorrhoeae porin PIB (por),AAB57788.1,P95351,AF-P95351,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P95351.pdb,A
+Mycobacterium tuberculosis embC mutant conferring resistance to ethambutol,NP_218310.1,P9WNL5,AF-P9WNL5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNL5.pdb,A
+Mycobacterium leprae gyrB conferring resistance to fluoroquinolones,CAC29513.1,Q59533,AF-Q59533,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q59533.pdb,A
+Staphylococcus aureus parC conferring resistance to fluoroquinolones,WP_001289569.1,A0A1D3VZ74,AF-A0A1D3VZ74,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A0A1D3VZ74.pdb,A
+Salmonella enterica ramR mutants,ACH50230.1,B5EYH1,AF-B5EYH1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-B5EYH1.pdb,A
+Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones,AAG06556.1,P48372,AF-P48372,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P48372.pdb,A
+Mycobacterium tuberculosis gyrB with mutation conferring resistance to fluoroquinolones,NP_214519.2,P9WG45,AF-P9WG45,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WG45.pdb,A
+Salmonella enterica soxR with mutation conferring antibiotic resistance,CAD09250.1,P0A2R1,AF-P0A2R1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0A2R1.pdb,A
+Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones,AAG08352.1,Q9HUJ8,AF-Q9HUJ8,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9HUJ8.pdb,A
+Escherichia coli parC conferring resistance to fluoroquinolones,AAC76055.1,P0AFI2,AF-P0AFI2,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AFI2.pdb,A
+Mycoplasma hominis parC conferring resistance to fluoroquinolones,AKJ52802.1,,,,,A
+LpxA,AJF82049.1,,,,,A
+Staphylococcus aureus ileS with mutation conferring resistance to mupirocin,CAA52296.1,P41972,AF-P41972,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P41972.pdb,A
+Escherichia coli murA with mutation conferring resistance to fosfomycin,AIL15701.1,,,,,A
+Staphylococcus aureus murA with mutation conferring resistance to fosfomycin,CAG41169.1,Q6GEX5,AF-Q6GEX5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GEX5.pdb,A
+Mycobacterium tuberculosis variant bovis ndh with mutation conferring resistance to isoniazid,NP_216370.1,P95160,AF-P95160,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P95160.pdb,A
+Acinetobacter baumannii gyrA conferring resistance to fluoroquinolones,AJF82744.1,,,,,A
+Staphylococcus aureus walK with mutation conferring resistance to daptomycin,CAG39047.1,Q6GKS6,AF-Q6GKS6,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GKS6.pdb,A
+Pseudomonas mutant PhoQ conferring resistance to colistin,AAG04569.1,Q9I4F8,AF-Q9I4F8,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9I4F8.pdb,A
+Streptococcus pneumoniae parC conferring resistance to fluoroquinolones,NP_358351.1,,,,,A
+Ureaplasma urealyticum parC conferring resistance to fluoroquinolones,WP_010891786.1,Q9PQ23,AF-Q9PQ23,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9PQ23.pdb,A
+Salmonella enterica gyrA conferring resistance to fluoroquinolones,AAL21173.1,P37411,AF-P37411,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P37411.pdb,A
+Shigella flexneri gyrA conferring resistance to fluoroquinolones,AAN43827.1,P0AES5,AF-P0AES5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AES5.pdb,A
+Shigella flexneri parC conferring resistance to fluoroquinolones,AAN44541.1,P0AFI4,AF-P0AFI4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AFI4.pdb,A
+Neisseria meningititis PBP2 conferring resistance to beta-lactam,AAF40852.1,P0A0U9,AF-P0A0U9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0A0U9.pdb,A
+Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin,CAG39357.1,A0A7U7ETP7,AF-A0A7U7ETP7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A0A7U7ETP7.pdb,A
+Cutibacterium acnes gyrA conferring resistance to fluoroquinolones,AER05434.1,,,,,A
+Staphylococcus aureus UhpT with mutation conferring resistance to fosfomycin,CAG39240.1,A0A7U7IBW3,AF-A0A7U7IBW3,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A0A7U7IBW3.pdb,A
+Pseudomonas mutant PhoP conferring resistance to colistin,AAG04568.1,Q9I4F9,AF-Q9I4F9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9I4F9.pdb,A
+D-Ala-D-Ala ligase,AAB17902.2,Q47755,AF-Q47755,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q47755.pdb,A
+Clostridioides difficile rpoB with mutation conferring resistance to rifampicin,ADK17136.1,D8GJ48,AF-D8GJ48,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-D8GJ48.pdb,A
+Mycobacterium tuberculosis variant bovis embB with mutation conferring resistance to ethambutol,NP_218312.1,P9WNL7,AF-P9WNL7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNL7.pdb,A
+Mycobacterium tuberculosis Rv0191 mutations confer resistance to pyrazinamide,NP_214705.1,P9WJX7,AF-P9WJX7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJX7.pdb,A
+Mycobacterium tuberculosis inbR mutations conferring resistance to isoniazid,YP_177706.1,L7N6A2,AF-L7N6A2,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-L7N6A2.pdb,A
+Clostridioides difficile gyrA conferring resistance to fluoroquinolones,CAJ66820.1,Q18C90,AF-Q18C90,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q18C90.pdb,A
+Mycobacterium tuberculosis mshA mutations conferring resistance to isoniazid,NP_215000.1,P9WMY7,AF-P9WMY7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WMY7.pdb,A
+Mycobacterium tuberculosis Rv2731 mutations confer resistance to pyrazinamide,NP_217247.1,I6XF60,AF-I6XF60,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6XF60.pdb,A
+Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin,AFC91898.1,H8ZYG5,AF-H8ZYG5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-H8ZYG5.pdb,A
+Mycobacterium tuberculosis Rv3169 mutations confer resistance to pyrazinamide,NP_217685.1,O53319,AF-O53319,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-O53319.pdb,A
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin,AAC73938.1,P17117,AF-P17117,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P17117.pdb,A
+Enterococcus faecium EF-Tu mutants conferring resistance to GE2270A,AFK57679.1,I3TY41,AF-I3TY41,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I3TY41.pdb,A
+Mycobacterium leprae rpoB mutations conferring resistance to rifampicin,CAC30845.1,P30760,AF-P30760,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P30760.pdb,A
+Mycobacterium tuberculosis mymA mutations conferring resistance to isoniazid,NP_217599.1,P9WNF7,AF-P9WNF7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNF7.pdb,A
+Mycobacterium tuberculosis thyA with mutation conferring resistance to para-aminosalicylic acid,NP_217280.1,P9WFR9,AF-P9WFR9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WFR9.pdb,A
+Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid,NP_216963.1,I6Y0R5,AF-I6Y0R5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6Y0R5.pdb,A
+Salmonella enterica gyrA with mutation conferring resistance to triclosan,AAL21173.1,P37411,AF-P37411,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P37411.pdb,A
+Escherichia coli gyrA with mutation conferring resistance to triclosan,AAC75291.1,P0AES4,AF-P0AES4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AES4.pdb,A
+Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics,AAC22787.1,P45059,AF-P45059,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P45059.pdb,A
+Mycobacterium tuberculosis inhA mutations conferring resistance to ethionamide,NP_216000.1,P9WGR1,AF-P9WGR1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGR1.pdb,A
+Mycobacterium tuberculosis nudC mutations conferring resistance to isoniazid,NP_217715.1,P9WIX5,AF-P9WIX5,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WIX5.pdb,A
+Mycobacterium tuberculosis ponA1 mutations conferring resistance to rifabutin,YP_177687.1,P71707,AF-P71707,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P71707.pdb,A
+Neisseria gonorrhoeae gyrB conferring resistance to zoliflodacin,CNT74515.1,,,,,A
+Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics,AAA25463.1,P08149,AF-P08149,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P08149.pdb,A
+Burkholderia dolosa gyrA conferring resistance to fluoroquinolones,AJY14066.1,,,,,A
+Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin,WP_010869372.1,P47446,AF-P47446,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P47446.pdb,A
+Neisseria gonorrhoeae mtrR with mutation conferring resistance,ACF30254.1,B4RN90,AF-B4RN90,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-B4RN90.pdb,A
+Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin,NP_215182.1,P9WGY7,AF-P9WGY7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGY7.pdb,A
+Mycobacterium tuberculosis rpoA mutations confer resistance to rifampicin,NP_217974.1,P9WGZ1,AF-P9WGZ1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGZ1.pdb,A
+Mycobacterium tuberculosis ppsC mutations confer resistance to pyrazinamide,NP_217449.1,P96202,AF-P96202,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P96202.pdb,A
+Mycobacterium tuberculosis ppsD mutations confer resistance to pyrazinamide,NP_217450.1,P9WQE3,AF-P9WQE3,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WQE3.pdb,A
+Mycobacterium tuberculosis ubiA mutations confer resistance to ethambutol,NP_218323.1,,,,,A
+Mycobacterium tuberculosis mas mutations confer resistance to pyrazinamide,NP_217456.1,I6Y231,AF-I6Y231,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6Y231.pdb,A
+Mycobacterium tuberculosis katG mutations conferring resistance to prothionamide,NP_216424.1,I6YBX7,AF-I6YBX7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6YBX7.pdb,A
+Mycobacterium tuberculosis ethA mutations conferring resistance to isoniazid,NP_218371.1,P9WNF9,AF-P9WNF9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNF9.pdb,A
+Mycobacterium tuberculosis ethA mutations conferring resistance to prothionamide,NP_218371.1,P9WNF9,AF-P9WNF9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WNF9.pdb,A
+Escherichia coli ompF with mutation conferring resistance to beta-lactam antibiotics,AAC74015.1,P02931,AF-P02931,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P02931.pdb,A
+Ureaplasma urealyticum gyrB conferring resistance to fluoroquinolones,WP_004025678.1,B5ZAR0,AF-B5ZAR0,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-B5ZAR0.pdb,A
+Escherichia coli nfsB with mutation conferring resistance to nitrofurantoin,AAC73679.1,P38489,AF-P38489,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P38489.pdb,A
+Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid,CAG39573.1,Q6GJC1,AF-Q6GJC1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q6GJC1.pdb,A
+Enterococcus faecalis cls with mutation conferring resistance to daptomycin,AEA93051.1,A0ACD6TAI6,,,,A
+Mycoplasma genitalium gyrA mutation confers resistance to fluoroquinolones,AAC71220.1,P47250,AF-P47250,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P47250.pdb,A
+Neisseria gonorrhoeae parC conferring resistance to fluoroquinolones,AAW89918.1,Q5F7B9,AF-Q5F7B9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q5F7B9.pdb,A
+Mycobacterium tuberculosis rpsA mutations conferring resistance to pyrazinamide,NP_216146.1,P9WH43,AF-P9WH43,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WH43.pdb,A
+Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid,AIU22003.1,,,,,A
+Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan,AAC74370.1,P0AEK4,AF-P0AEK4,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P0AEK4.pdb,A
+Helicobacter pylori gyrA conferring resistance to fluoroquinolones,WP_001153763.1,P48370,AF-P48370,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P48370.pdb,A
+Helicobacter pylori pbp3 conferring resistance to amoxicillin,EJC52487.1,,,,,A
+Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin,AAK17126.1,Q9AHF6,AF-Q9AHF6,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q9AHF6.pdb,A
+Helicobacter pylori frxA mutation conferring resistance to metronidazole,AAD07703.1,G5EB01,AF-G5EB01,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-G5EB01.pdb,A
+Helicobacter pylori rpoB mutation conferring resistance to rifampicin,AAD08242.1,O25806,,,,A
+Bacillus subtilis rpoB mutants conferring resistance to rifampin,CAB11883.2,P37870,AF-P37870,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P37870.pdb,A
+Mycobacterium tuberculosis Rv1258c mutations confer resistance to ethambutol and capreomycin,NP_215774.1,P9WJX9,AF-P9WJX9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJX9.pdb,A
+"Mycobacterium tuberculosis Rv1258c mutations confer resistance to pyrazinamide, isoniazid, and streptomycin",NP_215774.1,P9WJX9,AF-P9WJX9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WJX9.pdb,A
+Helicobacter pylori rdxA mutation conferring resistance to metronidazole,WP_000670110.1,O25608,AF-O25608,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-O25608.pdb,A
+Klebsiella pneumoniae lamB with mutations conferring resistance to ceftazidime-avibactam,WAH47136.1,,,,,A
+Mycobacterium abscessus atpE with mutation conferring resistance to bedaquiline,ABC24999.1,Q0QLI3,AF-Q0QLI3,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q0QLI3.pdb,A
+Streptococcus pyogenes PBP2x conferring resistance to beta-lactam antibiotics,QTH61293.1,,,,,A
+Mycobacterium tuberculosis Rv0678 with mutation conferring resistance to bedaquiline,NP_215192.1,I6Y8F7,AF-I6Y8F7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6Y8F7.pdb,A
+Salmonella isangi gyrA conferring resistance to fluoroquinolones,WP_001281271.1,A0A0F6B403,AF-A0A0F6B403,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-A0A0F6B403.pdb,A
+Neisseria gonorrhoeae gyrA with mutations conferring resistance to fluoroquinolones,AAW89357.1,Q5F8Y0,AF-Q5F8Y0,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-Q5F8Y0.pdb,A
+Mycobacterium tuberculosis Rv0678 with mutation conferring resistance to clofazimine,NP_215192.1,I6Y8F7,AF-I6Y8F7,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-I6Y8F7.pdb,A
+Mycobacterium tuberculosis atpE with mutation conferring resistance to bedaquiline,NP_215821.1,P9WPS1,AF-P9WPS1,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WPS1.pdb,A
+Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin,NP_215181.1,P9WGY9,AF-P9WGY9,AlphaFold,/content/drive/MyDrive/AMR_Structural_Mutation_Project/raw/structures/AF-P9WGY9.pdb,A

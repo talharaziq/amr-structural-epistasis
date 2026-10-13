@@ -1,0 +1,671 @@
+Pair_id,Reason_excluded,CARD_model
+PAIR_82268,WT amino acid mismatch (Pos2 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82274,WT amino acid mismatch (Pos2 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82280,WT amino acid mismatch (Pos1 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82281,WT amino acid mismatch (Pos1 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82282,WT amino acid mismatch (Pos1 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82283,WT amino acid mismatch (Pos1 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_82284,WT amino acid mismatch (Pos1 G->F),Enterococcus faecium cls conferring resistance to daptomycin
+PAIR_98083,WT amino acid mismatch (Pos1 G->H Pos2 R->T),Bartonella bacilliformis gyrB conferring resistance to aminocoumarin
+PAIR_98084,WT amino acid mismatch (Pos1 G->H Pos2 T->V),Bartonella bacilliformis gyrB conferring resistance to aminocoumarin
+PAIR_98085,WT amino acid mismatch (Pos1 G->H Pos2 T->V),Bartonella bacilliformis gyrB conferring resistance to aminocoumarin
+PAIR_98086,WT amino acid mismatch (Pos1 R->T Pos2 T->V),Bartonella bacilliformis gyrB conferring resistance to aminocoumarin
+PAIR_98087,WT amino acid mismatch (Pos1 R->T Pos2 T->V),Bartonella bacilliformis gyrB conferring resistance to aminocoumarin
+PAIR_98134,WT amino acid mismatch (Pos1 G->I Pos2 I->L),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98135,WT amino acid mismatch (Pos1 G->I Pos2 I->D),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98136,WT amino acid mismatch (Pos1 G->I Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98137,WT amino acid mismatch (Pos1 G->I Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98138,WT amino acid mismatch (Pos1 G->I),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98139,WT amino acid mismatch (Pos1 G->I Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98140,WT amino acid mismatch (Pos1 I->L Pos2 I->D),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98141,WT amino acid mismatch (Pos1 I->L Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98142,WT amino acid mismatch (Pos1 I->L Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98143,WT amino acid mismatch (Pos1 I->L),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98144,WT amino acid mismatch (Pos1 I->L Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98145,WT amino acid mismatch (Pos1 I->D Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98146,WT amino acid mismatch (Pos1 I->D Pos2 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98147,WT amino acid mismatch (Pos1 I->D),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98148,WT amino acid mismatch (Pos1 I->D Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98150,WT amino acid mismatch (Pos1 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98151,WT amino acid mismatch (Pos1 R->N Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98152,WT amino acid mismatch (Pos1 R->N),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98153,WT amino acid mismatch (Pos1 R->N Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_98154,WT amino acid mismatch (Pos2 T->V),Staphylococcus aureus gyrB conferring resistance to aminocoumarin
+PAIR_99699,WT amino acid mismatch (Pos1 R->E Pos2 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99700,WT amino acid mismatch (Pos1 R->E Pos2 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99701,WT amino acid mismatch (Pos1 R->E),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99702,WT amino acid mismatch (Pos1 R->E Pos2 T->H),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99703,WT amino acid mismatch (Pos1 R->E Pos2 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99704,WT amino acid mismatch (Pos1 R->E Pos2 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99705,WT amino acid mismatch (Pos1 R->E),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99706,WT amino acid mismatch (Pos1 R->E Pos2 T->H),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99708,WT amino acid mismatch (Pos1 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99709,WT amino acid mismatch (Pos1 R->F Pos2 T->H),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99710,WT amino acid mismatch (Pos1 R->F),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99711,WT amino acid mismatch (Pos1 R->F Pos2 T->H),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_99712,WT amino acid mismatch (Pos2 T->H),Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin
+PAIR_100174,WT amino acid mismatch (Pos1 A->F Pos2 G->E),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100175,WT amino acid mismatch (Pos1 A->F Pos2 Q->R),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100176,WT amino acid mismatch (Pos1 A->F Pos2 Q->P),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100177,WT amino acid mismatch (Pos1 G->E Pos2 Q->R),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100178,WT amino acid mismatch (Pos1 G->E Pos2 Q->P),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100179,WT amino acid mismatch (Pos1 Q->R Pos2 Q->P),Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa
+PAIR_100226,WT amino acid mismatch (Pos2 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100236,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100237,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100238,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100239,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100240,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100241,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100242,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100243,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100244,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100245,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100246,WT amino acid mismatch (Pos1 I->W),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100247,WT amino acid mismatch (Pos1 I->W Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100248,WT amino acid mismatch (Pos1 I->W Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100257,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100258,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100266,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100267,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100274,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100275,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100281,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100282,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100287,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100288,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100292,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100293,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100296,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100297,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100299,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100300,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100301,WT amino acid mismatch (Pos2 T->L),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100302,WT amino acid mismatch (Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100303,WT amino acid mismatch (Pos1 T->L Pos2 V->T),Staphylococcus aureus mprF with mutation conferring resistance to daptomycin
+PAIR_100748,WT amino acid mismatch (Pos1 S->A),Morganella morganii gyrB conferring resistance to fluoroquinolones
+PAIR_100970,WT amino acid mismatch (Pos1 G->S Pos2 G->A),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100971,WT amino acid mismatch (Pos1 G->S Pos2 V->A),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100972,WT amino acid mismatch (Pos1 G->S Pos2 V->C),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100973,WT amino acid mismatch (Pos1 G->A Pos2 V->A),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100974,WT amino acid mismatch (Pos1 G->A Pos2 V->C),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100975,WT amino acid mismatch (Pos1 V->A Pos2 V->C),Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A
+PAIR_100993,WT amino acid mismatch (Pos1 D->E Pos2 E->D),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100994,WT amino acid mismatch (Pos1 D->E),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100995,WT amino acid mismatch (Pos1 D->E),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100996,WT amino acid mismatch (Pos1 D->E),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100997,WT amino acid mismatch (Pos1 D->E),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100998,WT amino acid mismatch (Pos1 E->D),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_100999,WT amino acid mismatch (Pos1 E->D),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_101000,WT amino acid mismatch (Pos1 E->D),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_101001,WT amino acid mismatch (Pos1 E->D),Staphylococcus aureus murA with mutation conferring resistance to fosfomycin
+PAIR_101015,WT amino acid mismatch (Pos2 L->N),Enterococcus faecium liaF mutant conferring daptomycin resistance
+PAIR_101019,WT amino acid mismatch (Pos1 D->E Pos2 S->L),Acinetobacter baumannii parC conferring resistance to fluoroquinolones
+PAIR_101020,WT amino acid mismatch (Pos1 D->E Pos2 V->I),Acinetobacter baumannii parC conferring resistance to fluoroquinolones
+PAIR_101021,WT amino acid mismatch (Pos1 S->L Pos2 V->I),Acinetobacter baumannii parC conferring resistance to fluoroquinolones
+PAIR_101071,WT amino acid mismatch (Pos1 E->N Pos2 T->L),Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin
+PAIR_101072,WT amino acid mismatch (Pos1 E->N Pos2 T->G),Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin
+PAIR_101073,WT amino acid mismatch (Pos1 T->L Pos2 T->G),Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin
+PAIR_101074,WT amino acid mismatch (Pos1 A->V),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101075,WT amino acid mismatch (Pos1 A->V),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101076,WT amino acid mismatch (Pos1 A->V),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101077,WT amino acid mismatch (Pos1 A->V Pos2 V->I),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101078,WT amino acid mismatch (Pos1 A->V),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101081,WT amino acid mismatch (Pos2 V->I),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101084,WT amino acid mismatch (Pos2 V->I),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101086,WT amino acid mismatch (Pos2 V->I),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101088,WT amino acid mismatch (Pos1 V->I),Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin
+PAIR_101109,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101120,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101130,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101139,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101147,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101154,WT amino acid mismatch (Pos2 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101161,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101162,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101163,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101164,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101165,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101166,WT amino acid mismatch (Pos1 Q->T),Clostridioides difficile rpoB with mutation conferring resistance to rifampicin
+PAIR_101205,WT amino acid mismatch (Pos2 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101212,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101217,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101220,WT amino acid mismatch (Pos2 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101227,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101232,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101234,WT amino acid mismatch (Pos2 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101241,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101246,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101247,WT amino acid mismatch (Pos2 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101254,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101259,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101260,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101261,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101262,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101263,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101264,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101265,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101266,WT amino acid mismatch (Pos1 C->A Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101267,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101268,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101269,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101270,WT amino acid mismatch (Pos1 C->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101271,WT amino acid mismatch (Pos1 C->A Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101277,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101282,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101287,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101292,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101296,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101301,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101304,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101309,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101311,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101316,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101317,WT amino acid mismatch (Pos2 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101322,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101323,WT amino acid mismatch (Pos1 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101324,WT amino acid mismatch (Pos1 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101325,WT amino acid mismatch (Pos1 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101326,WT amino acid mismatch (Pos1 Q->E),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101327,WT amino acid mismatch (Pos1 Q->E Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101331,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101334,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101336,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101337,WT amino acid mismatch (Pos2 T->A),Clostridioides difficile gyrA conferring resistance to fluoroquinolones
+PAIR_101346,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101351,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101355,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101358,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101360,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101361,WT amino acid mismatch (Pos2 R->G),Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin
+PAIR_101818,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101830,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101841,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101851,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101860,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101868,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101875,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101881,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101886,WT amino acid mismatch (Pos2 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101891,WT amino acid mismatch (Pos1 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101892,WT amino acid mismatch (Pos1 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101893,WT amino acid mismatch (Pos1 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101894,WT amino acid mismatch (Pos1 N->K),Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics
+PAIR_101910,WT amino acid mismatch (Pos2 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101923,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101924,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101925,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101926,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101927,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101928,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101929,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101930,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101931,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101932,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101933,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_101934,WT amino acid mismatch (Pos1 A->S),Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin
+PAIR_102580,WT amino acid mismatch (Pos1 C->F Pos2 C->N),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_102581,WT amino acid mismatch (Pos1 C->F Pos2 C->Q),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_102582,WT amino acid mismatch (Pos1 C->F Pos2 G->R),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_102583,WT amino acid mismatch (Pos1 C->N Pos2 C->Q),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_102584,WT amino acid mismatch (Pos1 C->N Pos2 G->R),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_102585,WT amino acid mismatch (Pos1 C->Q Pos2 G->R),Mycobacterium tuberculosis ahpC mutations confer resistance to isoniazid
+PAIR_103288,WT amino acid mismatch (Pos2 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103315,WT amino acid mismatch (Pos2 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103342,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103343,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103344,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103345,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103346,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103347,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103348,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103349,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103350,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103351,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103352,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103353,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103354,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103355,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103356,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103357,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103358,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103359,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103360,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103361,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103362,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103363,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103364,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103365,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103366,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103367,WT amino acid mismatch (Pos1 F->T),Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid
+PAIR_103785,WT amino acid mismatch (Pos2 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103798,WT amino acid mismatch (Pos2 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103810,WT amino acid mismatch (Pos2 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103822,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103823,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103824,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103825,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103826,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103827,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103828,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103829,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103830,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103831,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103832,WT amino acid mismatch (Pos1 G->C),Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+PAIR_103916,WT amino acid mismatch (Pos1 D->L Pos2 D->E),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103917,WT amino acid mismatch (Pos1 D->L Pos2 D->E),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103918,WT amino acid mismatch (Pos1 D->L Pos2 D->G),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103919,WT amino acid mismatch (Pos1 D->L Pos2 E->I),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103920,WT amino acid mismatch (Pos1 D->L Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103921,WT amino acid mismatch (Pos1 D->L Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103922,WT amino acid mismatch (Pos1 D->L Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103923,WT amino acid mismatch (Pos1 D->L Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103924,WT amino acid mismatch (Pos1 D->L Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103925,WT amino acid mismatch (Pos1 D->L Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103926,WT amino acid mismatch (Pos1 D->L Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103927,WT amino acid mismatch (Pos1 D->L Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103928,WT amino acid mismatch (Pos1 D->L Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103929,WT amino acid mismatch (Pos1 D->L Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103930,WT amino acid mismatch (Pos1 D->L Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103931,WT amino acid mismatch (Pos1 D->L Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103932,WT amino acid mismatch (Pos1 D->L Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103933,WT amino acid mismatch (Pos1 D->L Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103934,WT amino acid mismatch (Pos1 D->L Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103936,WT amino acid mismatch (Pos1 D->E Pos2 D->G),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103937,WT amino acid mismatch (Pos1 D->E Pos2 E->I),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103938,WT amino acid mismatch (Pos1 D->E Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103939,WT amino acid mismatch (Pos1 D->E Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103940,WT amino acid mismatch (Pos1 D->E Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103941,WT amino acid mismatch (Pos1 D->E Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103942,WT amino acid mismatch (Pos1 D->E Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103943,WT amino acid mismatch (Pos1 D->E Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103944,WT amino acid mismatch (Pos1 D->E Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103945,WT amino acid mismatch (Pos1 D->E Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103946,WT amino acid mismatch (Pos1 D->E Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103947,WT amino acid mismatch (Pos1 D->E Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103948,WT amino acid mismatch (Pos1 D->E Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103949,WT amino acid mismatch (Pos1 D->E Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103950,WT amino acid mismatch (Pos1 D->E Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103951,WT amino acid mismatch (Pos1 D->E Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103952,WT amino acid mismatch (Pos1 D->E Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103953,WT amino acid mismatch (Pos1 D->E Pos2 D->G),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103954,WT amino acid mismatch (Pos1 D->E Pos2 E->I),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103955,WT amino acid mismatch (Pos1 D->E Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103956,WT amino acid mismatch (Pos1 D->E Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103957,WT amino acid mismatch (Pos1 D->E Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103958,WT amino acid mismatch (Pos1 D->E Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103959,WT amino acid mismatch (Pos1 D->E Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103960,WT amino acid mismatch (Pos1 D->E Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103961,WT amino acid mismatch (Pos1 D->E Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103962,WT amino acid mismatch (Pos1 D->E Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103963,WT amino acid mismatch (Pos1 D->E Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103964,WT amino acid mismatch (Pos1 D->E Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103965,WT amino acid mismatch (Pos1 D->E Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103966,WT amino acid mismatch (Pos1 D->E Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103967,WT amino acid mismatch (Pos1 D->E Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103968,WT amino acid mismatch (Pos1 D->E Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103969,WT amino acid mismatch (Pos1 D->E Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103970,WT amino acid mismatch (Pos1 D->G Pos2 E->I),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103971,WT amino acid mismatch (Pos1 D->G Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103972,WT amino acid mismatch (Pos1 D->G Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103973,WT amino acid mismatch (Pos1 D->G Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103974,WT amino acid mismatch (Pos1 D->G Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103975,WT amino acid mismatch (Pos1 D->G Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103976,WT amino acid mismatch (Pos1 D->G Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103977,WT amino acid mismatch (Pos1 D->G Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103978,WT amino acid mismatch (Pos1 D->G Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103979,WT amino acid mismatch (Pos1 D->G Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103980,WT amino acid mismatch (Pos1 D->G Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103981,WT amino acid mismatch (Pos1 D->G Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103982,WT amino acid mismatch (Pos1 D->G Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103983,WT amino acid mismatch (Pos1 D->G Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103984,WT amino acid mismatch (Pos1 D->G Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103985,WT amino acid mismatch (Pos1 D->G Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103986,WT amino acid mismatch (Pos1 E->I Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103987,WT amino acid mismatch (Pos1 E->I Pos2 E->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103988,WT amino acid mismatch (Pos1 E->I Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103989,WT amino acid mismatch (Pos1 E->I Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103990,WT amino acid mismatch (Pos1 E->I Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103991,WT amino acid mismatch (Pos1 E->I Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103992,WT amino acid mismatch (Pos1 E->I Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103993,WT amino acid mismatch (Pos1 E->I Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103994,WT amino acid mismatch (Pos1 E->I Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103995,WT amino acid mismatch (Pos1 E->I Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103996,WT amino acid mismatch (Pos1 E->I Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103997,WT amino acid mismatch (Pos1 E->I Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103998,WT amino acid mismatch (Pos1 E->I Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_103999,WT amino acid mismatch (Pos1 E->I Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104000,WT amino acid mismatch (Pos1 E->I Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104002,WT amino acid mismatch (Pos1 E->Y Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104003,WT amino acid mismatch (Pos1 E->Y Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104004,WT amino acid mismatch (Pos1 E->Y Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104005,WT amino acid mismatch (Pos1 E->Y Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104006,WT amino acid mismatch (Pos1 E->Y Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104007,WT amino acid mismatch (Pos1 E->Y Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104008,WT amino acid mismatch (Pos1 E->Y Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104009,WT amino acid mismatch (Pos1 E->Y Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104010,WT amino acid mismatch (Pos1 E->Y Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104011,WT amino acid mismatch (Pos1 E->Y Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104012,WT amino acid mismatch (Pos1 E->Y Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104013,WT amino acid mismatch (Pos1 E->Y Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104014,WT amino acid mismatch (Pos1 E->Y Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104015,WT amino acid mismatch (Pos1 E->Y Pos2 I->R),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104016,WT amino acid mismatch (Pos1 E->Y Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104017,WT amino acid mismatch (Pos1 E->Y Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104018,WT amino acid mismatch (Pos1 E->Y Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104019,WT amino acid mismatch (Pos1 E->Y Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104020,WT amino acid mismatch (Pos1 E->Y Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104021,WT amino acid mismatch (Pos1 E->Y Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104022,WT amino acid mismatch (Pos1 E->Y Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104023,WT amino acid mismatch (Pos1 E->Y Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104024,WT amino acid mismatch (Pos1 E->Y Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104025,WT amino acid mismatch (Pos1 E->Y Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104026,WT amino acid mismatch (Pos1 E->Y Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104027,WT amino acid mismatch (Pos1 E->Y Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104028,WT amino acid mismatch (Pos1 I->R Pos2 K->A),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104029,WT amino acid mismatch (Pos1 I->R Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104030,WT amino acid mismatch (Pos1 I->R Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104031,WT amino acid mismatch (Pos1 I->R Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104032,WT amino acid mismatch (Pos1 I->R Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104033,WT amino acid mismatch (Pos1 I->R Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104034,WT amino acid mismatch (Pos1 I->R Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104035,WT amino acid mismatch (Pos1 I->R Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104036,WT amino acid mismatch (Pos1 I->R Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104037,WT amino acid mismatch (Pos1 I->R Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104038,WT amino acid mismatch (Pos1 I->R Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104039,WT amino acid mismatch (Pos1 I->R Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104040,WT amino acid mismatch (Pos1 K->A Pos2 R->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104041,WT amino acid mismatch (Pos1 K->A Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104042,WT amino acid mismatch (Pos1 K->A Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104043,WT amino acid mismatch (Pos1 K->A Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104044,WT amino acid mismatch (Pos1 K->A Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104045,WT amino acid mismatch (Pos1 K->A Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104046,WT amino acid mismatch (Pos1 K->A Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104047,WT amino acid mismatch (Pos1 K->A Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104048,WT amino acid mismatch (Pos1 K->A Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104049,WT amino acid mismatch (Pos1 K->A Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104050,WT amino acid mismatch (Pos1 K->A Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104051,WT amino acid mismatch (Pos1 R->S Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104052,WT amino acid mismatch (Pos1 R->S Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104053,WT amino acid mismatch (Pos1 R->S Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104054,WT amino acid mismatch (Pos1 R->S Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104055,WT amino acid mismatch (Pos1 R->S Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104056,WT amino acid mismatch (Pos1 R->S Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104057,WT amino acid mismatch (Pos1 R->S Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104058,WT amino acid mismatch (Pos1 R->S Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104059,WT amino acid mismatch (Pos1 R->S Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104060,WT amino acid mismatch (Pos1 R->S Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104061,WT amino acid mismatch (Pos1 R->K Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104062,WT amino acid mismatch (Pos1 R->K Pos2 R->P),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104063,WT amino acid mismatch (Pos1 R->K Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104064,WT amino acid mismatch (Pos1 R->K Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104065,WT amino acid mismatch (Pos1 R->K Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104066,WT amino acid mismatch (Pos1 R->K Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104067,WT amino acid mismatch (Pos1 R->K Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104068,WT amino acid mismatch (Pos1 R->K Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104069,WT amino acid mismatch (Pos1 R->K Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104071,WT amino acid mismatch (Pos1 R->P Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104072,WT amino acid mismatch (Pos1 R->P Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104073,WT amino acid mismatch (Pos1 R->P Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104074,WT amino acid mismatch (Pos1 R->P Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104075,WT amino acid mismatch (Pos1 R->P Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104076,WT amino acid mismatch (Pos1 R->P Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104077,WT amino acid mismatch (Pos1 R->P Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104078,WT amino acid mismatch (Pos1 R->P Pos2 R->K),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104079,WT amino acid mismatch (Pos1 R->P Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104080,WT amino acid mismatch (Pos1 R->P Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104081,WT amino acid mismatch (Pos1 R->P Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104082,WT amino acid mismatch (Pos1 R->P Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104083,WT amino acid mismatch (Pos1 R->P Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104084,WT amino acid mismatch (Pos1 R->P Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104085,WT amino acid mismatch (Pos1 R->K Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104086,WT amino acid mismatch (Pos1 R->K Pos2 S->N),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104087,WT amino acid mismatch (Pos1 R->K Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104088,WT amino acid mismatch (Pos1 R->K Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104089,WT amino acid mismatch (Pos1 R->K Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104090,WT amino acid mismatch (Pos1 R->K Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104092,WT amino acid mismatch (Pos1 S->N Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104093,WT amino acid mismatch (Pos1 S->N Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104094,WT amino acid mismatch (Pos1 S->N Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104095,WT amino acid mismatch (Pos1 S->N Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104096,WT amino acid mismatch (Pos1 S->N Pos2 S->D),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104097,WT amino acid mismatch (Pos1 S->N Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104098,WT amino acid mismatch (Pos1 S->N Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104099,WT amino acid mismatch (Pos1 S->N Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104100,WT amino acid mismatch (Pos1 S->D Pos2 S->L),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104101,WT amino acid mismatch (Pos1 S->D Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104102,WT amino acid mismatch (Pos1 S->D Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104103,WT amino acid mismatch (Pos1 S->L Pos2 V->S),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104104,WT amino acid mismatch (Pos1 S->L Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104105,WT amino acid mismatch (Pos1 V->S Pos2 V->Y),Clostridioides difficile gyrB conferring resistance to fluoroquinolones
+PAIR_104151,WT amino acid mismatch (Pos1 A->R),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104152,WT amino acid mismatch (Pos1 A->R),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104153,WT amino acid mismatch (Pos1 A->R),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104154,WT amino acid mismatch (Pos1 A->R Pos2 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104155,WT amino acid mismatch (Pos1 A->R),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104156,WT amino acid mismatch (Pos1 A->R),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104159,WT amino acid mismatch (Pos2 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104163,WT amino acid mismatch (Pos2 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104166,WT amino acid mismatch (Pos2 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104169,WT amino acid mismatch (Pos1 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104170,WT amino acid mismatch (Pos1 E->N),Helicobacter pylori pbp3 conferring resistance to amoxicillin
+PAIR_104172,WT amino acid mismatch (Pos1 A->N Pos2 A->S),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104173,WT amino acid mismatch (Pos1 A->N Pos2 E->G),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104174,WT amino acid mismatch (Pos1 A->N Pos2 I->A),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104175,WT amino acid mismatch (Pos1 A->N Pos2 S->H),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104176,WT amino acid mismatch (Pos1 A->S Pos2 E->G),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104177,WT amino acid mismatch (Pos1 A->S Pos2 I->A),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104178,WT amino acid mismatch (Pos1 A->S Pos2 S->H),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104179,WT amino acid mismatch (Pos1 E->G Pos2 I->A),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104180,WT amino acid mismatch (Pos1 E->G Pos2 S->H),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104181,WT amino acid mismatch (Pos1 I->A Pos2 S->H),Helicobacter pylori pbp2 mutants conferring resistance to amoxicillin
+PAIR_104186,WT amino acid mismatch (Pos2 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104208,WT amino acid mismatch (Pos2 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104229,WT amino acid mismatch (Pos2 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104249,WT amino acid mismatch (Pos2 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104268,WT amino acid mismatch (Pos2 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104287,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104288,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104289,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104290,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104291,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104292,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104293,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104294,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104295,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104296,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104297,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104298,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104299,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104300,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104301,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104302,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104303,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104304,WT amino acid mismatch (Pos1 N->K),Helicobacter pylori pbp1 mutants conferring resistance to amoxicillin
+PAIR_104468,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104469,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104479,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104480,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104489,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104490,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104498,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104499,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104506,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104507,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104513,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104514,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104519,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104520,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104524,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104525,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104528,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104529,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104531,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104532,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104533,WT amino acid mismatch (Pos2 V->L),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104534,WT amino acid mismatch (Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104535,WT amino acid mismatch (Pos1 V->L Pos2 Y->D),Helicobacter pylori frxA mutation conferring resistance to metronidazole
+PAIR_104545,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104548,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104560,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104567,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104576,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104579,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104591,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104598,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104606,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104609,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104621,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104628,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104635,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104638,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104650,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104657,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104663,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104666,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104678,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104685,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104690,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104693,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104705,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104712,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104716,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104719,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104731,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104738,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104741,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104744,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104756,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104763,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104765,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104768,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104780,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104787,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104788,WT amino acid mismatch (Pos2 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104791,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104803,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104810,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104811,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104812,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104813,WT amino acid mismatch (Pos1 F->K Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104814,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104815,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104816,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104817,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104818,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104819,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104820,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104821,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104822,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104823,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104824,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104825,WT amino acid mismatch (Pos1 F->K Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104826,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104827,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104828,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104829,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104830,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104831,WT amino acid mismatch (Pos1 F->K),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104832,WT amino acid mismatch (Pos1 F->K Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104834,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104846,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104853,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104854,WT amino acid mismatch (Pos2 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104866,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104873,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104874,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104875,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104876,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104877,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104878,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104879,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104880,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104881,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104882,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104883,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104884,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104885,WT amino acid mismatch (Pos1 I->S Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104886,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104887,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104888,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104889,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104890,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104891,WT amino acid mismatch (Pos1 I->S),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104892,WT amino acid mismatch (Pos1 I->S Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104903,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104910,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104920,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104927,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104936,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104943,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104951,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104958,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104965,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104972,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104978,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104985,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104990,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_104997,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105001,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105008,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105011,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105018,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105020,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105027,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105028,WT amino acid mismatch (Pos2 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105035,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105036,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105037,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105038,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105039,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105040,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105041,WT amino acid mismatch (Pos1 T->F),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105042,WT amino acid mismatch (Pos1 T->F Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105048,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105053,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105057,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105060,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105062,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105063,WT amino acid mismatch (Pos2 V->Y),Helicobacter pylori rpoB mutation conferring resistance to rifampicin
+PAIR_105257,WT amino acid mismatch (Pos2 A->V),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105258,WT amino acid mismatch (Pos2 C->I),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105259,WT amino acid mismatch (Pos2 C->R),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105260,WT amino acid mismatch (Pos2 G->V),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105261,WT amino acid mismatch (Pos2 G->E),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105262,WT amino acid mismatch (Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105263,WT amino acid mismatch (Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105264,WT amino acid mismatch (Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105265,WT amino acid mismatch (Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105266,WT amino acid mismatch (Pos1 A->V Pos2 C->I),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105267,WT amino acid mismatch (Pos1 A->V Pos2 C->R),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105268,WT amino acid mismatch (Pos1 A->V Pos2 G->V),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105269,WT amino acid mismatch (Pos1 A->V Pos2 G->E),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105270,WT amino acid mismatch (Pos1 A->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105271,WT amino acid mismatch (Pos1 A->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105272,WT amino acid mismatch (Pos1 A->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105273,WT amino acid mismatch (Pos1 A->V Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105274,WT amino acid mismatch (Pos1 C->I Pos2 C->R),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105275,WT amino acid mismatch (Pos1 C->I Pos2 G->V),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105276,WT amino acid mismatch (Pos1 C->I Pos2 G->E),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105277,WT amino acid mismatch (Pos1 C->I Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105278,WT amino acid mismatch (Pos1 C->I Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105279,WT amino acid mismatch (Pos1 C->I Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105280,WT amino acid mismatch (Pos1 C->I Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105281,WT amino acid mismatch (Pos1 C->R Pos2 G->V),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105282,WT amino acid mismatch (Pos1 C->R Pos2 G->E),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105283,WT amino acid mismatch (Pos1 C->R Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105284,WT amino acid mismatch (Pos1 C->R Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105285,WT amino acid mismatch (Pos1 C->R Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105286,WT amino acid mismatch (Pos1 C->R Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105287,WT amino acid mismatch (Pos1 G->V Pos2 G->E),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105288,WT amino acid mismatch (Pos1 G->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105289,WT amino acid mismatch (Pos1 G->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105290,WT amino acid mismatch (Pos1 G->V Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105291,WT amino acid mismatch (Pos1 G->V Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105292,WT amino acid mismatch (Pos1 G->E Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105293,WT amino acid mismatch (Pos1 G->E Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105294,WT amino acid mismatch (Pos1 G->E Pos2 G->H),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105295,WT amino acid mismatch (Pos1 G->E Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105298,WT amino acid mismatch (Pos1 G->H Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105300,WT amino acid mismatch (Pos1 G->H Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
+PAIR_105301,WT amino acid mismatch (Pos1 G->H Pos2 G->F),Bacillus subtilis rpsE mutations conferring resistance to spectinomycin
